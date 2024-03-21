@@ -1,2 +1,2 @@
 # landingpage
-Recriando uma parte da landing page do Nubank
+Creating a Basic Landing Page
